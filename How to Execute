@@ -1,0 +1,2 @@
+javac -cp `hbase classpath` HBaseCreateUpdateDelete_Operations.java
+java -cp `hbase classpath` HBaseCreateUpdateDelete_Operations
